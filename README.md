@@ -1,8 +1,8 @@
-# 🧘 Zen-Flow Studio Manager
+# 🧘 Zen Flow Studio Manager
 
 **Transforming administrative burdens into seamless, high-vibe business experiences.**
 
-The **Zen-Flow Studio Manager** is a complete "Business Operating System" designed for boutique studios and service-based businesses. This engine transforms manual administrative burdens into a seamless, high-vibe experience by automating the entire customer lifecycle. 
+The **Zen Flow Studio Manager** is a complete "Business Operating System" designed for boutique studios and service-based businesses. This engine transforms manual administrative burdens into a seamless, high-vibe experience by automating the entire customer lifecycle. 
 
 ---
 
