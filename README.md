@@ -23,9 +23,9 @@ It ensures a business remains financially healthy by repurposing logic derived f
 ---
 
 ## 🛠️ Tech Stack
-* **Automation:** [n8n.io]
-* **Database**: Google Sheets 
-* **Payment Gateway**: PayPal REST API
+* **Automation:**: [n8n](https://n8n.io/) (Self-hosted or Cloud)
+* **Database**: [Google Sheets](https://www.google.com/sheets/about/)
+* **Payment Gateway**: [PayPal REST API](https://developer.paypal.com/home/)
 * **User Interface**: Google Forms & Dynamic QR Codes
 
 ---
