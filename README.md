@@ -23,8 +23,8 @@ It ensures a business remains financially healthy by repurposing logic derived f
 ---
 
 ## 🛠️ Tech Stack
-* **Core Logic**: n8n (Workflow Automation)
-* **Database**: Google Sheets (The "Control Center")
+* **Automation:** [n8n.io]
+* **Database**: Google Sheets 
 * **Payment Gateway**: PayPal REST API
 * **User Interface**: Google Forms & Dynamic QR Codes
 
