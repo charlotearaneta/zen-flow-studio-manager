@@ -16,10 +16,11 @@ It ensures a business remains financially healthy by repurposing logic derived f
 ## 🚀 Workflow Architecture
 The system is built on four integrated automation pillars that communicate in real-time:
 
-1.  **The Scheduler**: A proactive engine that scans the database daily and triggers branded PayPal invoices 3 days before renewal.
-2.  **The Receiver**: A webhook listener that reconcile payments instantly and updates membership status without human intervention.
-3.  **The Attendance Tracker**: A QR-code-based check-in system that automatically manages class/credit balances in real-time.
-4.  **The Reporter:**: Monthly automated delivery of revenue vs. goal summaries to the business owner.
+1.**The Onboarding Gateway**: Welcome Gateway is an automated onboarding engine designed to eliminate manual data entry and "New Student" paperwork.
+2.  **The Scheduler**: A proactive engine that scans the database daily and triggers branded PayPal invoices 3 days before renewal.
+3.  **The Receiver**: A webhook listener that reconcile payments instantly and updates membership status without human intervention.
+4.  **The Attendance Tracker**: A QR-code-based check-in system that automatically manages class/credit balances in real-time.
+5.  **The Reporter**: Monthly automated delivery of revenue vs. goal summaries to the business owner.
 
 ---
 
